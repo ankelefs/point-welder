@@ -7,7 +7,7 @@
 
 <h1>Information ℹ️</h1>
 <p>
-	This is a home made point welder circuit which can be easily attached to a 12 V car battery to provide a good weld between two, thin, metal sheets, i.e. for battery cell connections.
+	This is a home made point welder circuit that easily can be attached to a 12 V car battery to provide a good weld between two, thin, metal sheets, i.e. for battery cell connections.
 </p>
 
 <h1>Specifications ℹ️</h1>
