@@ -1,4 +1,6 @@
 ## 08.12.22
-Tested the circuit (V1) for the first time. I have been too afraid to "play" with batteries, but today I tested it, and it works. There are some improvements that can be made, for sure, but the circuit did not blow up, nor did the battery - I call that a win. 
+Tested the circuit (V1) for the first time. 
+I have been too afraid to "play" with batteries, but today I tested it, and it works. 
+There are some improvements that can be made, for sure, but the circuit did not blow up, nor did the battery - I call that a win. 
 The weld between two thin plates was very strong.
 I wish to develop a version 2 (V2) of the circuit to improve certain aspects of it, and then test it thuroughly.
