@@ -11,3 +11,4 @@ Things to do:
 [] Make sure all dimensions are correct (headers, OLED-screen).
 [] Make sure the schematic is "usable".
 [] Export PCB to Fusion 360 to start 3D-modelling.
+[] Import all relevant documents to GitHub-folder (datasheets, circuit-schematics/-figures ++).
