@@ -4,3 +4,10 @@ I have been too afraid to "play" with batteries, but today I tested it, and it w
 There are some improvements that can be made, for sure, but the circuit did not blow up, nor did the battery - I call that a win. 
 The weld between two thin plates was very strong.
 I wish to develop a version 2 (V2) of the circuit to improve certain aspects of it, and then test it thuroughly.
+
+## 18.12.22
+Worked on schematics and PCB.
+Things to do:
+[] Make sure all dimensions are correct (headers, OLED-screen).
+[] Make sure the schematic is "usable".
+[] Export PCB to Fusion 360 to start 3D-modelling.
