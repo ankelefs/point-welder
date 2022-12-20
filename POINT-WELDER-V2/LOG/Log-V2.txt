@@ -17,7 +17,7 @@ Needs to be done:
 Worked on schematics:
   * Changed DRIVER-MOSFET to be low-side-implemented (for switching).
   * Changed POWER-MOSFET to be high-side-implemented (for giving power).
-  (!) Need to double check - it may have to be low-side-implemented if weld-resistance is higher than Rds of MOSFET (Thanks for feedback, Sindre).
+    (!) Need to double check - it may have to be low-side-implemented if weld-resistance is higher than Rds of MOSFET (Thanks for feedback, Sindre).
 Worked on board layout (PCB):
   * Added holes for mounting.
   * Finalized trace widths and the general layout.
