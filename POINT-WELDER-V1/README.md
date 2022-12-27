@@ -5,7 +5,7 @@
 	The cable from the connected battery's positive terminal goes through a 300 A fuse before anything else to ensure a redundant fail-safe. Also, the largest relay (rated at 200 A continuous draw) has a switch that needs to be on before it can work, as an additional safety feature.
 </p>
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ankelefs/point-welder/blob/main/POINT-WELDER-V1/MEDIA/Main.JPG)
 
 
 <b>Pros:</b>
