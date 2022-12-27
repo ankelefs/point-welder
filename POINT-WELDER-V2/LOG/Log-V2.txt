@@ -40,3 +40,4 @@ PCB:
 To do:
   [] A new 3D-model that encapsulates it more and is more aesthetic.
   [] 3D-model needs implemented fastener for cables and OLED-display.
+  [] Edit README-files.
