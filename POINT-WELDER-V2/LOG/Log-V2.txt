@@ -25,7 +25,18 @@ Worked on 3D housing-model:
   * A rough skecth is now complete.
 Needs to be done:
 [] Implement Miro with GitHub
-[] Check schematics and maybe change POWER-MOSFET to be low-side-implemented.
-[] 3D: Add screw holes at the top of the pillars (topside) for mounting components together.
-[] 3D: Add bracket for mounting OLED-display (nicely).
-[] 3D: Add spacers for PCB to rest upon and be fastened to with screws.
+[x] Check schematics and maybe change POWER-MOSFET to be low-side-implemented.
+[-] 3D: Add screw holes at the top of the pillars (topside) for mounting components together.
+[-] 3D: Add bracket for mounting OLED-display (nicely).
+[-] 3D: Add spacers for PCB to rest upon and be fastened to with screws.
+
+## 27.12.22
+Schematics:
+  * Removed capacitor before buck converter. Reason: BAT+ signal need good clearing - caused problems and not much needed.
+  * Changed to low-side configuration for power-MOSFET.
+  * Completed.
+PCB:
+  * Completed.
+To do:
+  [] A new 3D-model that encapsulates it more and is more aesthetic.
+  [] 3D-model needs implemented fastener for cables and OLED-display.
