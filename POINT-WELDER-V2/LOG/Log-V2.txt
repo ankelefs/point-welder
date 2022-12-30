@@ -42,7 +42,7 @@ To do:
   [] 3D-model needs implemented fastener for cables and OLED-display.
   [] Edit README-files.
   
- ## 31.12.22
+ ## 30.12.22
  Schematics: 
    * Renumbered items.
  PCB:
