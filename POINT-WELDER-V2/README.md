@@ -1,4 +1,4 @@
 # POINT WELDER V2
 
 <h3>Schematics</h3>
-![alt text](https://github.com/ankelefs/point-welder/blob/main/POINT-WELDER-V2/HARDWARE/Point-Welder-V2-Schematics.png)
+![Point-Welder-V2-Schematics](https://user-images.githubusercontent.com/18615800/210084640-23d8d6ee-0fec-4439-951a-73fd960620ce.png)
