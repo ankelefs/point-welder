@@ -36,8 +36,19 @@ Schematics:
   * Changed to low-side configuration for power-MOSFET.
   * Completed.
 PCB:
-  * Completed.
+  * Almost completed.
 To do:
   [] A new 3D-model that encapsulates it more and is more aesthetic.
   [] 3D-model needs implemented fastener for cables and OLED-display.
   [] Edit README-files.
+  
+ ## 31.12.22
+ Schematics: 
+   * Renumbered items.
+ PCB:
+   * Finishing touches. 
+   * Ordered lacking components: IRLB3034 (Digi-Key) and 10k potmeter (Digi-Key). Total order sum: 568,20 kr (IRLB3034: 7 pcs, potmeter: 2 pcs).
+ To do:
+  [] Look at potmeter datasheet and change pin location so that the rotary dial sticks out "perfectly" from the enclosure.
+  [] Order PCBs.
+     --> Finish 3D-model.
