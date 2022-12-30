@@ -5,6 +5,7 @@ There are some improvements that can be made, for sure, but the circuit did not 
 The weld between two thin plates was very strong.
 I wish to develop a version 2 (V2) of the circuit to improve certain aspects of it, and then test it thuroughly.
 
+
 ## 18.12.22
 Worked on schematics and PCB.
 Needs to be done:
@@ -12,6 +13,7 @@ Needs to be done:
 [x] Make sure the schematic is "usable".
 [x] Export PCB to Fusion 360 to start 3D-modelling.
 [x] Import all relevant documents to GitHub-folder (datasheets, circuit-schematics/-figures ++).
+
 
 ## 20.12.22
 Worked on schematics:
@@ -30,6 +32,7 @@ Needs to be done:
 [-] 3D: Add bracket for mounting OLED-display (nicely).
 [-] 3D: Add spacers for PCB to rest upon and be fastened to with screws.
 
+
 ## 27.12.22
 Schematics:
   * Removed capacitor before buck converter. Reason: BAT+ signal need good clearing - caused problems and not much needed.
@@ -41,6 +44,7 @@ To do:
   [] A new 3D-model that encapsulates it more and is more aesthetic.
   [] 3D-model needs implemented fastener for cables and OLED-display.
   [] Edit README-files.
+  
   
  ## 30.12.22
  Schematics: 
