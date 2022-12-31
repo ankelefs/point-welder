@@ -72,4 +72,6 @@ PCB:
 
 ![PCB top-view](https://user-images.githubusercontent.com/18615800/210152181-a58769d7-d55a-4dff-8f5d-4bb56ca737be.png)
 
+I see from the picture that the names/values of the resistors are not in it. They should be moved to either the tValue or tName layer to be printed on the silkscreen. But this is not a big concern since it is a fairly easy electronic schematic/design.
+
 Only need to design the enclosure (prefarably before the PCBs arrive) and make/assemble it. Need to figure out if it should be made with fully 3D-printed parts or if the design is nicer if it's made with acrylic glass. 
