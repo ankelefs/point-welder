@@ -29,7 +29,7 @@ Worked on 3D housing-model:
 * A rough skecth is now complete.
 
 Needs to be done:
-* ⚠️ Implement Miro with GitHub
+* ❌ Implement Miro with GitHub
 * ✅ Check schematics and maybe change POWER-MOSFET to be low-side-implemented.
 * ❌ 3D: Add screw holes at the top of the pillars (topside) for mounting components together.
 * ❌ 3D: Add bracket for mounting OLED-display (nicely).
