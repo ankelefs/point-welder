@@ -70,4 +70,6 @@ PCB:
 * Changed position and dimension (3 mm) of holes for fastening to a base (enclosure).
 * Ordered! 🥳
 
+![PCB top-view](https://user-images.githubusercontent.com/18615800/210152181-a58769d7-d55a-4dff-8f5d-4bb56ca737be.png)
+
 Only need to design the enclosure (prefarably before the PCBs arrive) and make/assemble it. Need to figure out if it should be made with fully 3D-printed parts or if the design is nicer if it's made with acrylic glass. 
