@@ -75,3 +75,13 @@ PCB:
 I see from the picture that the names/values of the resistors are not in it. They should be moved to either the tValue or tName layer to be printed on the silkscreen. But this is not a big concern since it is a fairly easy electronic schematic/design.
 
 Only need to design the enclosure (prefarably before the PCBs arrive) and make/assemble it. Need to figure out if it should be made with fully 3D-printed parts or if the design is nicer if it's made with acrylic glass. 
+
+------------
+### 01.01.23
+Finished the 3D-model design. It only needs a few minor adjustments with regards to the cable dimensions (need to make sure the holes are big enough).
+
+![3D-model](https://user-images.githubusercontent.com/18615800/210172337-84047056-7b7f-4f57-a7a5-ae613dab0b02.png)
+
+* ⚠️ Need to find which cables to buy and double check dimensions in 3D-model.
+* ⚠️ Need to then make an ergonomic holder for the weld tips.
+* ⚠️ Need to find properly sized crocodile clamps for the cable ends that go to the battery.
